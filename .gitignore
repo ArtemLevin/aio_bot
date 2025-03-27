@@ -60,7 +60,7 @@ coverage.xml
 .vscode/
 
 # Environments
-.env
+.venv
 .env.*
 .venv
 venv/
